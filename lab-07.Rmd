@@ -22,7 +22,6 @@ knitr::opts_chunk$set(echo = TRUE)
 5. Submit the link to your repository on Canvas.
 6. Have a great break!
 
-
 hello there.
 
 General Kenobi
